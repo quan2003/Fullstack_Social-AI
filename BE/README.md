@@ -1,2 +1,2 @@
-# socialviuni
-build by truongjae
+# Social AI by Truong Luu Quan
+
